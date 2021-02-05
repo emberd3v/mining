@@ -1,0 +1,17 @@
+{
+    "site_url"        :"",
+    "comission"       : "15",
+    "minimal_payout"  : "1000",
+    "referral"        : "5",
+    "manual_payouts"  : "1",
+    
+    "fh_api_key"      : "",
+    
+    "wmp_site_key"    : "",
+    "wmp_private_key" : "",
+    
+    "admin_name"      :"admin",
+    "admin_pwd"       :"admin",
+    
+    "miner_url"       :""
+}
